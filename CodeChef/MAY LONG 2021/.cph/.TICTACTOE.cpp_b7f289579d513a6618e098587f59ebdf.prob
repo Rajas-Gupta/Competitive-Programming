@@ -1,0 +1,1 @@
+{"name":"Local: TICTACTOE","url":"/Users/rajasgupta/Desktop/Programming/CP/MAY LONG/TICTACTOE.cpp","tests":[{"id":1620895824115,"input":"3\nXOX\nXXO\nO O\nXXX\nOOO\nXOX\nOX \nXO ","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/rajasgupta/Desktop/Programming/CP/MAY LONG/TICTACTOE.cpp","group":"local","local":true}

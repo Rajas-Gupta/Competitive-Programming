@@ -1,0 +1,1 @@
+{"name":"Local: chess","url":"/Users/rajasgupta/Desktop/Programming/CP/Starters7/chess.cpp","tests":[{"id":1627210967493,"input":"4\n1 0\n4 1\n100 0\n20 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/rajasgupta/Desktop/Programming/CP/Starters7/chess.cpp","group":"local","local":true}
